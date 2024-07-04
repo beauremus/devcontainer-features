@@ -1,34 +1,9 @@
 {
-    "id": "hello",
+    "id": "flutter",
     "version": "1.0.0",
-    "name": "Hello, World",
-    "description": "A hello world Template",
-    "documentationURL": "https://github.com/devcontainers/template-starter/tree/main/src/hello",
-    "licenseURL": "https://github.com/devcontainers/template-starter/blob/main/LICENSE",
-    "options": {
-        "imageVariant": {
-            "type": "string",
-            "description": "Ubuntu version (use ubuntu-22.04 or ubuntu-18.04 on local arm64/Apple Silicon):",
-            "proposals": [
-                "jammy",
-                "focal",
-                "bionic"
-            ],
-            "default": "jammy"
-        },
-        "greeting": {
-            "type": "string",
-            "description": "Select a pre-made greeting, or enter your own",
-            "proposals": [
-                "hey",
-                "hello",
-                "hi",
-                "howdy"
-            ],
-            "default": "hey"
-        }
-    },
-    "platforms": [
-        "Any"
-    ]
+    "name": "Flutter",
+    "description": "Fully featured Linux/Web/Android Flutter development environment",
+    "documentationURL": "https://github.com/ThePhaseless/devcontainer-templates/tree/main/src/flutter",
+    "licenseURL": "https://github.com/ThePhaseless/devcontainer-templates/blob/main/LICENSE",
+    "platforms": ["Any"]
 }
