@@ -62,7 +62,7 @@
 	"forwardPorts": [5037],
   
 	// Uncomment the next line to run commands after the container is created.
-	"postCreateCommand": "dart pub get && adb start-server"
+	"postCreateCommand": "flutter run -d web-server"
   
 	// Configure tool-specific properties.
 	// "customizations": {},
