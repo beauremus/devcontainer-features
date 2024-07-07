@@ -1,9 +1,9 @@
 {
-    "id": "flutter",
+    "id": "flutter-web",
     "version": "1.0.0",
-    "name": "Flutter",
-    "description": "Fully featured Linux/Web/Android Flutter development environment",
-    "documentationURL": "https://github.com/ThePhaseless/devcontainer-templates/tree/main/src/flutter",
-    "licenseURL": "https://github.com/ThePhaseless/devcontainer-templates/blob/main/LICENSE",
+    "name": "Flutter-Web",
+    "description": "Fully featured Flutter web development environment",
+    "documentationURL": "https://github.com/beauremus/devcontainer-features/tree/main/src/flutter-web",
+    "licenseURL": "https://github.com/beauremus/devcontainer-features/blob/main/LICENSE",
     "platforms": ["Any"]
 }
